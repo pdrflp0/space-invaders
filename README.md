@@ -13,9 +13,14 @@ O jogo é um **shoot 'em up** onde o jogador controla uma nave espacial e deve d
 
 ## 🚀 Funcionalidades
 
-✔️ Movimento do jogador  
+✔️ Movimento do jogador
+  
 ✔️ Tiro laser para destruir os inimigos  
-✔️ Tiro laser dos aliens para destruir o jogador
+
+✔️ Tiro laser dos aliens para destruir o jogador 
+
 ✔️ Sistema de pontuação  
+
 ✔️ Sistema de vidas
+
 ✔️ Variação de aliens
